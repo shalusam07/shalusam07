@@ -5,3 +5,17 @@
 - 📫 My passion lies in unraveling intricate data, transforming it into actionable solutions that drive meaningful outcomes. I am on a continuous quest for opportunities to contribute to high-impact projects.
 
 # Let's connect and explore potential collaborations to embark on compelling data-driven ventures!
+# Skills
+> Python
+
+> MySQL
+
+> Machine Learning
+
+> Power BI
+
+> Deep Learning
+
+> Data Analysis
+
+> I’m currently working on Data Science Projects
